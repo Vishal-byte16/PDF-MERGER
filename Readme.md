@@ -1,6 +1,6 @@
 # 🧾 PDF Merger Tool
 
-A beginner-friendly Python script that merges all PDFs in a folder into one.
+A beginner-friendly Python script that merges all seperate PDFs into one pdf.
 
 ## 🛠 How to Use
 1. Place your PDF files in the `pdfs_to_merge/` folder.
